@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content><!
 # ${1:MICS-VZ-89TE}
 Provides a tested Arduino and ESP8266 library to read data from the MICS-VZ-89TE - Indoor Air Quality Sensor from SGX Sensortech Limited.
 
@@ -22,7 +22,7 @@ Download the folder containing the files and place it with your other Arduino li
 
 ## Usage
 To use the library add:
-#include "MICS-VZ-89TE.h" at the top of your Arduino sketch.
+\#include "MICS-VZ-89TE.h" at the top of your Arduino sketch.
 
 ## Contributing
 1. Fork it!
@@ -34,6 +34,6 @@ To use the library add:
 V1.0 Initial commit
 ## License
 TODO: Under MIT licensing
-]]></content>
+></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
