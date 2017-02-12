@@ -1,6 +1,6 @@
 <snippet>
   <content><!
-# ${1:MICS-VZ-89TE}
+# MICS-VZ-89TE
 Provides a tested Arduino and ESP8266 library to read data from the MICS-VZ-89TE - Indoor Air Quality Sensor from SGX Sensortech Limited.
 
 
@@ -30,10 +30,13 @@ To use the library add:
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
 ## History
 V1.0 Initial commit
+
 ## License
 TODO: Under MIT licensing
+
 ></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
