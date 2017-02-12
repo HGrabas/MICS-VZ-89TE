@@ -16,7 +16,7 @@ The MiCS-VZ-89TE combines state-of-the-art MOS sensor technology with intelligen
 The dual signal output can be used to control ventilation on-demand, saving energy and reducing cost-of-ownership.
 
 <snippet>
-  <content><![CDATA[
+  <content>
 # ${1:MICS-VZ-89TE}
 Provides a tested Arduino and ESP8266 library to read data from the MICS-VZ-89TE - Indoor Air Quality Sensor from SGX Sensortech Limited.
 
@@ -37,6 +37,6 @@ To use the library add:
 V1.0 Initial commit
 ## License
 TODO: Under MIT licensing
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
