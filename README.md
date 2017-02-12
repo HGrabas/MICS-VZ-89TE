@@ -24,6 +24,12 @@ Download the folder containing the files and place it with your other Arduino li
 To use the library add:
 \#include "MICS-VZ-89TE.h" at the top of your Arduino sketch.
 
+Give the module few minutes of warmup to see sensible results.
+Couple of tests to do (disclaimer: not responsible to any damage you maye cause to yourself of your equipment in the process - be carefull):
+- Bring a small cup of alcool near the sensor.
+- Empty a CO2 cartrige near the sensor.
+- Burn a match of a lighter near the sensor.
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
