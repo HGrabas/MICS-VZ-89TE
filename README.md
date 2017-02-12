@@ -1,5 +1,5 @@
 <snippet>
-  <content><!
+  <content>
 # MICS-VZ-89TE
 Provides a tested Arduino and ESP8266 library to read data from the MICS-VZ-89TE - Indoor Air Quality Sensor from SGX Sensortech Limited.
 
