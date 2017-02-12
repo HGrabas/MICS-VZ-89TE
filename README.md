@@ -28,7 +28,7 @@ Give the module few minutes of warmup to see sensible results.
 Couple of tests to do (disclaimer: not responsible to any damage you maye cause to yourself of your equipment in the process - be carefull):
 - Bring a small cup of alcool near the sensor.
 - Empty a CO2 cartrige near the sensor.
-- Burn a match of a lighter near the sensor.
+- Burn a match or a lighter near the sensor.
 
 ## Contributing
 1. Fork it!
