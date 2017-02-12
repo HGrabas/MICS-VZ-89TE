@@ -35,7 +35,7 @@ To use the library add:
 V1.0 Initial commit
 
 ## License
-TODO: Under MIT licensing
+Under MIT licensing
 
 ></content>
   <tabTrigger>readme</tabTrigger>
