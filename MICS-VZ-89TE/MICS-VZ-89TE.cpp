@@ -74,7 +74,7 @@ void MICS_VZ_89TE::getVersion(void) {
 }
 
 
-bool MICS_VZ_89TE::begin() {
+void MICS_VZ_89TE::begin() {
     Wire.begin();
 }
 

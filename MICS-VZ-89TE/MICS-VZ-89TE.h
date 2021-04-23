@@ -55,7 +55,7 @@ public:
     float rev;
     float crc;
     
-    bool begin(void);
+    void begin(void);
     void readSensor(void);
     void getVersion(void);
     
